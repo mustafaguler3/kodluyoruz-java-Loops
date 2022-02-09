@@ -8,6 +8,8 @@ public class main {
         System.out.print("take a number from input : ");
         int number = scanner.nextInt();
 
+        //which prints powers of 4 and 5 up to the entered number.
+
         for(int i = 1;i<=number;i*=4){
             System.out.println(i);
         }
