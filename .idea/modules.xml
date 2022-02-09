@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/Fibonacci/Fibonacci.iml" filepath="$PROJECT_DIR$/Fibonacci/Fibonacci.iml" />
       <module fileurl="file://$PROJECT_DIR$/FindEvenNumbers/FindEvenNumbers.iml" filepath="$PROJECT_DIR$/FindEvenNumbers/FindEvenNumbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/FindSum/FindSum.iml" filepath="$PROJECT_DIR$/FindSum/FindSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HackerrankLoops/HackerrankLoops.iml" filepath="$PROJECT_DIR$/HackerrankLoops/HackerrankLoops.iml" />
       <module fileurl="file://$PROJECT_DIR$/HarmonicNumber/HarmonicNumber.iml" filepath="$PROJECT_DIR$/HarmonicNumber/HarmonicNumber.iml" />
       <module fileurl="file://$PROJECT_DIR$/MaxAndMin/MaxAndMin.iml" filepath="$PROJECT_DIR$/MaxAndMin/MaxAndMin.iml" />
       <module fileurl="file://$PROJECT_DIR$/PerfectNumber/PerfectNumber.iml" filepath="$PROJECT_DIR$/PerfectNumber/PerfectNumber.iml" />
