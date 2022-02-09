@@ -12,7 +12,9 @@
       <module fileurl="file://$PROJECT_DIR$/FindSum/FindSum.iml" filepath="$PROJECT_DIR$/FindSum/FindSum.iml" />
       <module fileurl="file://$PROJECT_DIR$/HarmonicNumber/HarmonicNumber.iml" filepath="$PROJECT_DIR$/HarmonicNumber/HarmonicNumber.iml" />
       <module fileurl="file://$PROJECT_DIR$/MaxAndMin/MaxAndMin.iml" filepath="$PROJECT_DIR$/MaxAndMin/MaxAndMin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PerfectNumber/PerfectNumber.iml" filepath="$PROJECT_DIR$/PerfectNumber/PerfectNumber.iml" />
       <module fileurl="file://$PROJECT_DIR$/PowersOfNumbers/PowersOfNumbers.iml" filepath="$PROJECT_DIR$/PowersOfNumbers/PowersOfNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RevertedTriagle/RevertedTriagle.iml" filepath="$PROJECT_DIR$/RevertedTriagle/RevertedTriagle.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/kodluyoruz-java-Loops.iml" filepath="$PROJECT_DIR$/.idea/kodluyoruz-java-Loops.iml" />
     </modules>
   </component>
