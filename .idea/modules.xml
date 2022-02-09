@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/FindEvenNumbers/FindEvenNumbers.iml" filepath="$PROJECT_DIR$/FindEvenNumbers/FindEvenNumbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/FindSum/FindSum.iml" filepath="$PROJECT_DIR$/FindSum/FindSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PowersOfNumbers/PowersOfNumbers.iml" filepath="$PROJECT_DIR$/PowersOfNumbers/PowersOfNumbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/kodluyoruz-java-Loops.iml" filepath="$PROJECT_DIR$/.idea/kodluyoruz-java-Loops.iml" />
     </modules>
   </component>
