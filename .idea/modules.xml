@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Combination/Combination.iml" filepath="$PROJECT_DIR$/Combination/Combination.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DiamondStart/DiamondStart.iml" filepath="$PROJECT_DIR$/DiamondStart/DiamondStart.iml" />
       <module fileurl="file://$PROJECT_DIR$/DigitSum/DigitSum.iml" filepath="$PROJECT_DIR$/DigitSum/DigitSum.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExponentialNumber/ExponentialNumber.iml" filepath="$PROJECT_DIR$/ExponentialNumber/ExponentialNumber.iml" />
       <module fileurl="file://$PROJECT_DIR$/FindEvenNumbers/FindEvenNumbers.iml" filepath="$PROJECT_DIR$/FindEvenNumbers/FindEvenNumbers.iml" />
