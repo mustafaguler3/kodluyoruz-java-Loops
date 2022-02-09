@@ -14,6 +14,7 @@
       <module fileurl="file://$PROJECT_DIR$/MaxAndMin/MaxAndMin.iml" filepath="$PROJECT_DIR$/MaxAndMin/MaxAndMin.iml" />
       <module fileurl="file://$PROJECT_DIR$/PerfectNumber/PerfectNumber.iml" filepath="$PROJECT_DIR$/PerfectNumber/PerfectNumber.iml" />
       <module fileurl="file://$PROJECT_DIR$/PowersOfNumbers/PowersOfNumbers.iml" filepath="$PROJECT_DIR$/PowersOfNumbers/PowersOfNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrimeNumbers/PrimeNumbers.iml" filepath="$PROJECT_DIR$/PrimeNumbers/PrimeNumbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/RevertedTriagle/RevertedTriagle.iml" filepath="$PROJECT_DIR$/RevertedTriagle/RevertedTriagle.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/kodluyoruz-java-Loops.iml" filepath="$PROJECT_DIR$/.idea/kodluyoruz-java-Loops.iml" />
     </modules>
