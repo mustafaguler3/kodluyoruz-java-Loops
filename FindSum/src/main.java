@@ -8,6 +8,8 @@ public class main {
         int n;
         Scanner scanner = new Scanner(System.in);
 
+
+        //we print 4k and even numbers until taking odd number from input
         do{
             n = scanner.nextInt();
             if (n % 2 == 0 && n % 4 == 0){
